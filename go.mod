@@ -1,3 +1,3 @@
-module github.com/gethinode/mod-template
+module github.com/anoduck/mod-redirect
 
 go 1.19
