@@ -1,5 +1,5 @@
-module github.com/gethinode/mod-template/exampleSite
+module github.com/anoduck/mod-redirect/exampleSite
 
 go 1.19
 
-require github.com/gethinode/mod-template v0.0.0-20250417031620-28dfe7220e2b // indirect
+require github.com/anoduck/mod-redirect v0.0.0-20250417031620-28dfe7220e2b // indirect

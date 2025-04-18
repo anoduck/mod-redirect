@@ -1,3 +1,15 @@
+[mediaTypes]
+  [mediaTypes."text/redirects"]
+    suffixes = [""]
+
+[outputFormats]
+  [outputFormats.Redirects]
+  	name = "redirects"
+    baseName = ""
+    isPlainText = true
+    mediaType = "text/redirects"
+    permalinkable = false
+
 [module]
   [module.hugoVersion]
     extended = true
